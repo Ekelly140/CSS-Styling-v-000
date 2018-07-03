@@ -24,3 +24,12 @@ background-color: green;
 
   background-color: red;
 }
+
+#deatils a:link {
+  text-decoration: none;
+  color: black;
+}
+
+#details a:visited {
+  text-decoration: line-through;
+}
