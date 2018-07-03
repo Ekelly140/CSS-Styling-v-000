@@ -33,3 +33,7 @@ background-color: green;
 #details a:visited {
   text-decoration: line-through;
 }
+
+#details a:hover {
+  color :orange;
+}
