@@ -7,4 +7,5 @@ p {
 figcaption{
   font: normal .75em/1em Georgia, "New Times Roman", serif;
   color: green;
+  text-align: right;
 }
