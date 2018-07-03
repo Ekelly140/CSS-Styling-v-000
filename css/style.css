@@ -5,9 +5,6 @@ p {
 }
 
 figcaption{
-  font-weight: normal;
-  font-size: .75em;
-  line-height: 1em;
-  font-family: Georgia, "New Times Roman", serif;
+  font: normal, .75em/1em Georgia, "New Times Roman", serif;
   color: blue;
 }
