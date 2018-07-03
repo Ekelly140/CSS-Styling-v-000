@@ -32,6 +32,7 @@ background-color: green;
 
 #details a:visited {
   text-decoration: line-through;
+  color: yello;
 }
 
 #details a:hover {
