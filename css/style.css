@@ -3,3 +3,11 @@ p {
   line-height: 1.5em;
 
 }
+
+figcaption{
+  font-weight: normal;
+  font-size: .75em;
+  line-height: 1em;
+  font-family: Georgia, "New Times Roman", serif;
+  color: blue;
+}
